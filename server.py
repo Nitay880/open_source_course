@@ -1,5 +1,5 @@
 import socket
-N = 4
+N = 2
 """
                                                                   
                                                                   
